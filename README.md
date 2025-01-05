@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">The central hub to track, rate and explore your movie watch history</h4>
+<h4 align="center">The central hub to track, rate and explore your movies and tv shows and watch history</h4>
 
 <p align="center">
 <a href="https://hub.docker.com/r/leepeuker/movary" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/docker/pulls/leepeuker/movary" ></a>
@@ -32,7 +32,7 @@ automated play tracking for Plex, Jellyfin or Emby and much [more](#features).
 ![Movary Dashboard Example](https://raw.githubusercontent.com/leepeuker/movary/main/docs/images/dashboard-screenshot.png)
 
 
-**Disclaimer:** This project is still in an experimental (but usable) state.
+**Disclaimer:** This project is still in an experimental state.
 There are plans to add more and improve existing features before creating the 1.0 Release,
 which can lead to sudden breaking changes from time to time, so keep the release notes in mind when updating until then.
 
